@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+}
+div {
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+    
+}
+.style-section {
+    margin-top: 25;
+    margin-left: 25;
+    background-color: white;
+}
